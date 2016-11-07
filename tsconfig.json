@@ -5,7 +5,6 @@
     "outDir": "out",
     "noImplicitAny": true,
     "suppressImplicitAnyIndexErrors": true,
-    "noLib": true,
     "sourceMap": true,
     "strictNullChecks": true,
     "experimentalDecorators": true
